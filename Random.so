@@ -1,4 +1,5 @@
-import os,sys
+import os,sys,time
 os.system('clear')
 print(' \033[1;32mcongratulations sarvar has been on')
-import pk_enc
+time.sleep(1)
+import ka_enc
