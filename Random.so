@@ -1,5 +1,1 @@
-import os,sys,time
-os.system('clear')
-print(' \033[1;32mcongratulations sarvar has been on')
-time.sleep(1)
 import ka_enc
